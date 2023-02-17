@@ -137,9 +137,9 @@ To run tests, run the following command:
 
 👤 **Author**
 
-- GitHub: [@PeteUgwu](https://github.com/francis3400)
-- Twitter: [@Petrus4Charles](https://twitter.com/francisblinkz)
-- LinkedIn: [/peter-ugwu-15a3a724b/](https://www.linkedin.com/in/francis-uche/)
+- GitHub: [@francis3400](https://github.com/francis3400)
+- Twitter: [@francisblinkz](https://twitter.com/francisblinkz)
+- LinkedIn: [/francis-uche/](https://www.linkedin.com/in/francis-uche/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,3 +184,4 @@ If you like this project...
 - This project is [MIT](https://github.com/francis3400/Maths-magicians/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
