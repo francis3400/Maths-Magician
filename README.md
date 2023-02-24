@@ -104,7 +104,15 @@ To run tests, run the following command:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://dcff62f7.maths-magician.pages.dev))
+- [Live Demo Link](https://dcff62f7.maths-magician.pages.dev)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Render Deploy Link Demo <a name="live-demo"></a>
+
+- [Render Demo Link](https://maths-magician-app-bkv7.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
