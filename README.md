@@ -199,7 +199,6 @@ Example:
 - GitHub: [@francis3400](https://github.com/francis3400)
 - LinkedIn: [francis Uche](https://linkedin.com/in/francis-uche)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -207,10 +206,16 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[API integration]**
-- [ ] [key_feature_1]
-- [ ] [key_feature_2]
-- [ ] [key_feature_3]
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,16 +225,13 @@ Example:
 
 > Appreciation to my fellow microverse student, Ayomipo
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Show your support
 
 - Give a ⭐️ if you like this project!
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 
