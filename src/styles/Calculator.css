@@ -1,6 +1,7 @@
 .Calc {
   display: flex;
   overflow: hidden;
+  padding-bottom: 5rem;
 }
 
 .Calc h1 {
