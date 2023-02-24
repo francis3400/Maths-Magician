@@ -104,7 +104,7 @@ To run tests, run the following command:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://francis3400.github.io/Maths-Magician/)
+- [Live Demo Link](maths-magician.pages.dev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
