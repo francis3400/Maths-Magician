@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import calculate from './logic/calculate';
+import '../styles/Calculator.css';
 
 function Calculator() {
   const [result, setResult] = useState({
@@ -13,7 +14,8 @@ function Calculator() {
   };
 
   return (
-    <div className="App">
+    <div className="Calc">
+      <h1>Let&apos;s do some math!</h1>
       <div className="calculator">
         <div className="display">
           <div className="display-screen" type="text">

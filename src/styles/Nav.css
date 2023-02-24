@@ -1,0 +1,22 @@
+.mainMenu {
+  display: flex;
+  flex-direction: row;
+}
+
+.theHeading {
+  padding-left: 30px;
+  font-size: 50px;
+}
+
+.options {
+  padding-top: 40px;
+  margin-left: 47vw;
+  font-size: 25px;
+}
+
+a {
+  padding-left: 5px;
+  padding-right: 5px;
+  text-decoration: none;
+  color: black;
+}
